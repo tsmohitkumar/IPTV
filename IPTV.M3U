@@ -51,6 +51,8 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.in" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Undefined",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
+#EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="https://i.imgur.com/SDkiMvR.png" group-title="Culture;Religious",Sanskar TV (1080p)
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="SanskarUK.in" tvg-logo="https://i.imgur.com/AU5vSPF.png" group-title="Undefined",Sanskar UK (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/7ac2789ff9a544a49337d1ffc54ce61c/index.m3u8
 #EXTINF:-1 tvg-id="SanskarUSA.in" tvg-logo="https://i.imgur.com/5WBWruX.png" group-title="Undefined",Sanskar USA (1080p)
@@ -71,3 +73,11 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8
 https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-logo="https://i.imgur.com/T5VK7G5.png" group-title="Undefined",PTC Simran (720p)
 https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-logo="https://i.ibb.co/GkNXcLX/logo.png" group-title="Entertainment",Desi Channel (720p)
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="SansadTV.in" tvg-logo="https://i.imgur.com/TWSZC2H.png" group-title="Legislative",Sansad TV (1080p) [Not 24/7]
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+#EXTINF:-1 tvg-id="PTCDholTV.in" tvg-logo="https://i.ibb.co/C0y7yFJ/Ptc-Dhol-tv.jpg" group-title="Music",PTC Dhol (720p)
+https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="Music",PTC Music (720p)
+https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8
