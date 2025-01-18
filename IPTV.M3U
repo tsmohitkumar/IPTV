@@ -105,7 +105,7 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 #EXTINF:-1 tvg-id="" tvg-name="NDTV India 480p" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png" group-title="News" ,NDTV India 480p
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/masterb_480p@2.m3u8
 
-#EXTINF:-1 tvg-id="300" tvg-name="Nazara TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="LOCAL",Nazara TV
+#EXTINF:-1 tvg-id="380" tvg-name="Nazara TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="LOCAL",Nazara TV
 https://epiconvh.akamaized.net/live/nazara/master_1080.m3u8
 #EXTINF:-1 tvg-id="300" tvg-name="Nazara TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="LOCAL",Punjabi Hits
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/master.m3u8
