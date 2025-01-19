@@ -8,7 +8,7 @@ https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="291" tvg-name="SONY KAL{SONYLIV}" tvg-logo="https://www.sonykal.com/themes/custom/responsive_sony_kal/logo.svg" group-title="SONYLIV",SONY KAL{SONYLIV}
+#EXTINF:-1 tvg-id="291" tvg-name="SONY KAL{SONYLIV}" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="SONYLIV",SONY KAL{SONYLIV}
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="291" tvg-name="SONY HD{SONYLIV}" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="SONYLIV",SONY HD{SONYLIV}
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
