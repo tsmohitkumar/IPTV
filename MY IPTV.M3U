@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="380" tvg-name="Nazara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Nazara_TV_logo.png" group-title="Local",Nazara TV
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="yupptv.com" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Pitaara-Comedy_TV_black.png" group-title="Local",Pitaara Comedy
-https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-PitaaraComedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5b28c9c9-60eb-4d9b-8f3e-d772ec318e7f/playlist.m3u8
+https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/77f80304-36b1-4ba2-a9c0-5be46f4d49af/0.m3u8
 #EXTINF:-1 tvg-id="yupptv.com" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Pitaara-TV_black.png" group-title="Local",Pitaara
 https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-433350/playlist.m3u8
 
