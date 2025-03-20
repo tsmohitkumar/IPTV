@@ -1,4 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E01
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E01
 https://netfree.cc/pv/hls/0P4E1V3WTIVGLJDOKTTIR4ZJ9K.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E02
+https://netfree.cc/pv/hls/0N0XK6ZR8QICWRUAJ627AFRBU4.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E03
+https://netfree.cc/pv/hls/0NVA0HBWIYC0W85WQH69THECMM.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E04
+https://netfree.cc/pv/hls/0MD0EPP9CD1I6HJHK615RUN6NS.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E05
+https://netfree.cc/pv/hls/0S9TA289ASC0G66TF7A0UQY1ZV.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E06
+https://netfree.cc/pv/hls/0RF5HNL0ERDKMG2TTI8X5KVPS1.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E07
+https://netfree.cc/pv/hls/0Q85YRYYN9FAOZ3EPTPJM2SRBY.m3u8
+#EXTINF:-1 tvg-id="380" tvg-name="The Wheel of Time 01" tvg-logo="https://1000logos.net/wp-content/uploads/2022/10/Amazon-Prime-Video-Icon.png" group-title="The Wheel of Time",S01 E07
+https://netfree.cc/pv/hls/0M83CQL1MR3B9RDXCYF4I5B8BO.m3u8
