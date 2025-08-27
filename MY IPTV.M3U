@@ -85,7 +85,7 @@ https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/in
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Religious",Satsang Web TV (1080p)
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
 #EXTINF:-1 tvg-id="sachchannel.in" tvg-logo="https://cdn6.aptoide.com/imgs/9/c/2/9c28a726e1ac70bfbde39ecbd10a3154_icon.png" group-title="Religious",Sach
-https://sachchannel.in/hls/sach.m3u8
+http://sachchannel.in/hls/sach.m3u8
 
 
 
@@ -117,5 +117,6 @@ https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Dunya TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="News",Dunya TV
 https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8
+
 
 
